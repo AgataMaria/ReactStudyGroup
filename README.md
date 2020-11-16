@@ -4,7 +4,7 @@
 Be decent, have fun. :dancers:  
   
 Study to the power of 🙋  
-If you encounter anything in the book that makes you ponder / have any issues / errors - pop the question in the chat (discord), we will add it to the agenda,  do some research and have an informed discussion when we meet again. :champagne_glasses:  
+If you encounter anything in the book that makes you ponder / have any issues / errors - pop the question in the chat (discord), we will add it to the agenda,  do some research and have an informed discussion when we meet again. 
 
 ## Agenda (template)  
 _free form, all in chaotic order (chaotic order, get it? :D)_
