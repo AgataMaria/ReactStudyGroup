@@ -11,7 +11,7 @@ _free form, all in chaotic order (chaotic order, get it? :D)_
 - go through the chunk of the Opinionated Guide to React we were assigned  
     - _explain how we feel about it_  
     - _examples, questions?_  
-    - _note the cool stuff in [Takeaways](#Takeaways-:takeout_box:)_  
+    - _note the cool stuff in [Takeaways](#Takeaways)_  
 - go through [Questions](#Questions-from-last-week)  
 - add anything that needs fact checking / researching for next week to [Homework](#Homework-template)  
 - AOB  
@@ -20,8 +20,8 @@ _free form, all in chaotic order (chaotic order, get it? :D)_
 
 ## Questions from last week  
 
-## Takeaways :takeout_box:
-Note any useful questions, tips, tricks, hacks, lighbulb moments, useful resources, useless resources...  
+## Takeaways
+ :takeout_box: _Note any useful questions, tips, tricks, hacks, lighbulb moments, useful resources, useless resources..._  
 
 ---
 
